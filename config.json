@@ -1,8 +1,8 @@
 {
   "onHr": 0,
-  "onMin": 30,
+  "onMin": 20,
   "onSec": 0,
-  "breakHr": 0,
-  "breakMin": 30,
+  "breakHr": 4,
+  "breakMin": 0,
   "breakSec": 0
 }
