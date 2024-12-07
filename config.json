@@ -2,7 +2,7 @@
   "onHr": 0,
   "onMin": 30,
   "onSec": 0,
-  "breakHr": 0,
-  "breakMin": 4,
+  "breakHr": 4,
+  "breakMin": 0,
   "breakSec": 0
 }
