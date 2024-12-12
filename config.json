@@ -1,9 +1,9 @@
 {
   "autoSleep": 1,
   "onHr": 0,
-  "onMin": 10,
+  "onMin": 30,
   "onSec": 0,
-  "breakHr": 0,
-  "breakMin": 30,
+  "breakHr": 2,
+  "breakMin": 0,
   "breakSec": 0
 }
