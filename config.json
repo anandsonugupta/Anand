@@ -1,5 +1,5 @@
 {
-  "autoSleep": 0,
+  "autoSleep": 1,
   "onHr": 0,
   "onMin": 20,
   "onSec": 0,
